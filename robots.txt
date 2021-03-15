@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://competent-khorana-3e6bac.netlify.app/sitemap.xml
